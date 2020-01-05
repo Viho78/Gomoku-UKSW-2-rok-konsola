@@ -1,0 +1,67 @@
+﻿  stdafx.cpp
+  gomoku.cpp
+  gracz_vs_gracz.cpp
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(28,18): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(28,18): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(28,18): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(28,18): message : ten argument jest używany jako rozmiar bufora
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(104,18): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(104,18): message : rozważ użycie elementu „%hhd” w ciągu formatu
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(134,18): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(134,18): message : rozważ użycie elementu „%hhd” w ciągu formatu
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(104,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(110,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(134,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(141,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(391,18): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(391,18): message : rozważ użycie elementu „%hhd” w ciągu formatu
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(464,20): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(464,20): message : rozważ użycie elementu „%hhd” w ciągu formatu
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(542,20): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(542,20): message : rozważ użycie elementu „%hhd” w ciągu formatu
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(391,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(397,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(464,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(470,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(542,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(548,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(611,18): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(611,18): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(611,18): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(611,18): message : ten argument jest używany jako rozmiar bufora
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(603,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(657,18): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(657,18): message : rozważ użycie elementu „%hhd” w ciągu formatu
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(681,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(657,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(663,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(772,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(779,2): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(789,2): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(822,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : zobacz deklarację „scanf”
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(829,2): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+  Generowanie kodu...
+C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\gomoku\gracz_vs_gracz.cpp(346): warning C4715: "gracz_vs_gracz::sprawdzenie”: niewszystkie ścieżki kodu zwracają wartość
+  gomoku.vcxproj -> C:\Users\julek\Desktop\gomoku Juliusz Stańczyk\Debug\gomoku.exe
